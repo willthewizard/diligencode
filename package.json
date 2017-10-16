@@ -2,7 +2,7 @@
   "name": "diligencode",
   "version": "1.0.0",
   "description": "code challenge for deiligen",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
